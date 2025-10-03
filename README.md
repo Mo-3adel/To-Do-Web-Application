@@ -163,11 +163,3 @@ npm run preview
 
 Feel free to open issues or submit pull requests. Small improvements that help clarity, accessibility, or styling are welcome.
 
-## License
-
-This project has no explicit license in the repository. Add a `LICENSE` file if you want to make the license explicit.
-
----
-
-If you'd like the README expanded with developer notes or examples (for instance, how the components communicate), tell me which area to expand and I'll update it.
-  ```
